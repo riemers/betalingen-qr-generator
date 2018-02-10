@@ -1,4 +1,4 @@
-QR Code generator ING Ideal
+QR Code generator Ideal betalingen.
 ===============
 
 Simpel voorbeeld voor QR codes.
